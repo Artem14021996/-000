@@ -1,5 +1,5 @@
 ﻿
-int Max(int a, int b, int c);
+int Max(int a, int b, int c)
 {
     int result = a;
     if (b > result) result = b;
